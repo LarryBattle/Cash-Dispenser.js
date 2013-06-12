@@ -39,9 +39,10 @@ Please raise a ticket for help.
 There's a cash dispenser that contains 1¢, 5¢, 10¢, 25¢, $1, $5, $10 unit of US currency.
 This is represented as `var usCurr = [1, 5, 10, 25, 50, 100];`
 Here's how $49.19 converts would be dispensed.
-
+<pre>
   cashToChange(usCurr, 4919)
-	// returns {1: 4, 5: 1, 10: 1, 100: 49}
+  // returns {1: 4, 5: 1, 10: 1, 100: 49}
+</pre>
 
 ## Roadmap
 TODO
