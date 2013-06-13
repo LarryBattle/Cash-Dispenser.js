@@ -11,6 +11,9 @@ Please feel free to contribute.
 ## Version
 0.1
 
+## License
+MIT
+
 ## Dependencies
 None
 
